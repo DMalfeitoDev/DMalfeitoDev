@@ -6,9 +6,9 @@
 
 </samp>
 
-  <img src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" width="200"/>
+  <img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="200"/>
   
-[https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif]
+
 
 </p>
 
