@@ -7,9 +7,16 @@
 </p>
 
   <p align="center"> <img src='https://github.com/DMalfeitoDev/DMalfeitoDev/blob/main/Dev.gif' alt='Gif' height='250'></p>
-  
-</p>
+  <samp>  
+Hello my name is David, at the moment I am 200% focused on making a professional change, although I have always been immersed and surrounded by technology. 
 
+I'm currently doing a training course in JAVA programming and relational databases.
+
+Additionally, I have done work in HTML, CSS, PHP and graphic design in Photoshop or Illustrator.
+
+If you want to contact me you can send me an email <a href="mailto:jose.david.pantoja.malfeito@gmx.com">Email</a>
+</p>
+  </samp>
 ## Tech Stack :computer:
 
 
