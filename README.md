@@ -1,9 +1,9 @@
 <p align="center">
-  <br>
-  <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.maldev.es">David Pantoja Malfeito</a></b>.
-    <br>I'm a  from Spain.<br>
-  </samp>
+<br>
+<samp>
+Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.maldev.es">David Pantoja Malfeito</a></b>.
+<br>I'm a  from Spain.<br>
+</samp>
 </p>
 
   <p align="center"> <img src='https://github.com/DMalfeitoDev/DMalfeitoDev/blob/main/Dev.gif' alt='Gif' height='250'></p>
@@ -80,6 +80,8 @@ ____
 <h3 align="center">Support:</h3>
 
 <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="USUARIO_invitame_un_café" />
+
+<h3 align="center">Achievements</h3>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dmalfeitodev&show_icons=true&locale=en" alt="dmalfeitodev" />
 
