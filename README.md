@@ -12,7 +12,7 @@ Hello my name is David, I am currently focused 200% on making a professional cha
 
 In addition, I have done work in HTML, CSS, PHP and graphic design in Photoshop or Illustrator.
 
-If you want to get in touch with me you can send me an email to <a href="mailto:jose.david.pantoja.malfeito@gmx.com">here</a>
+If you want to get in touch with me you can send me an email to <a href="mailto:devmafeito@gmail.com">here</a>
 
 </p>
   </samp>
