@@ -81,7 +81,6 @@ ____
 <p><a href="https://www.buymeacoffee.com/USUARIO_invitame_un_café"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="USUARIO_invitame_un_café" /></a></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmalfeitodev&show_icons=true&locale=en&layout=compact" alt="dmalfeitodev" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dmalfeitodev&show_icons=true&locale=en" alt="dmalfeitodev" /></p>
 
