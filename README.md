@@ -8,13 +8,12 @@ Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="
 
   <p align="center"> <img src='https://github.com/DMalfeitoDev/DMalfeitoDev/blob/main/Dev.gif' alt='Gif' height='250'></p>
   <samp>  
-Hello my name is David, at the moment I am 200% focused on making a professional change, although I have always been immersed and surrounded by technology. 
+Hello my name is David, I am currently focused 200% on making a professional change, although I have always been immersed and surrounded by technology. I am currently getting certified in JAVA programming and relational databases.
 
-I'm currently doing a training course in JAVA programming and relational databases.
+In addition, I have done work in HTML, CSS, PHP and graphic design in Photoshop or Illustrator.
 
-Additionally, I have done work in HTML, CSS, PHP and graphic design in Photoshop or Illustrator.
+If you want to get in touch with me you can send me an email to <a href="mailto:jose.david.pantoja.malfeito@gmx.com">here</a>
 
-If you want to contact me you can send me an email <a href="mailto:jose.david.pantoja.malfeito@gmx.com">Email</a>
 </p>
   </samp>
 ## Tech Stack :computer:
