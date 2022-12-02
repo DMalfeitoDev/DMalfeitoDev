@@ -86,3 +86,10 @@ ____
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmalfeitodev&" alt="dmalfeitodev" />
 
+
+## Task lists
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
