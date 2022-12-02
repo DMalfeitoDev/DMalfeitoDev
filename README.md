@@ -89,7 +89,8 @@ ____
 
 ## Task lists
 
+- [X] # Conseguir CERTIFICADO Profesional de Programacion Orientada a Objetos en JAVA :tada:
 - [x] # Aprender y crear proyectos HTML y CSS
-- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] # Aprender MarkDown https://github.github.com/gfm/
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
