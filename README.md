@@ -89,7 +89,7 @@ ____
 
 ## Task lists
 
-- [x] #739
+- [x] # Aprender y crear proyectos HTML y CSS
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
