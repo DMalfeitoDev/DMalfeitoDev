@@ -8,12 +8,7 @@ If you want to get in touch with me you can send me an email to <a href="mailto:
 </p>
   </samp>
 ## Tech Stack :computer:
-
-
-
 ____
-
-
 
 <h3 align="center"> 📫 Other Accounts / Otras Cuentas</h3>
 
@@ -50,10 +45,12 @@ ____
 
 <h3 align="left">Languages:</h3>
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<p align="left">
+
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 
   
@@ -77,11 +74,4 @@ ____
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmalfeitodev&" alt="dmalfeitodev" />
 
-
 ## Task lists
-
-- [X] # Conseguir CERTIFICADO Profesional de Programacion Orientada a Objetos en JAVA :tada:
-- [x] # Aprender y crear proyectos HTML y CSS
-- [ ] # Aprender MarkDown https://github.github.com/gfm/
-- [ ] Add delight to the experience when all tasks are complete :tada:
-
