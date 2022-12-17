@@ -3,11 +3,7 @@
 <samp>
 Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.maldev.es">David Pantoja Malfeito</a></b>.
 <br>I'm a  from Spain.<br>
-</samp>
-</p>
 
-  <p align="center"> <img src='https://github.com/DMalfeitoDev/DMalfeitoDev/blob/main/Dev.gif' alt='Gif' height='250'></p>
-  <samp>  
 Hello my name is David, I am currently focused 200% on making a professional change, although I have always been immersed and surrounded by technology. I am currently getting certified in JAVA programming and relational databases.
 
 In addition, I have done work in HTML, CSS, PHP and graphic design in Photoshop or Illustrator.
