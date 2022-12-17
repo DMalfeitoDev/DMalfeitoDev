@@ -1,8 +1,3 @@
-<p align="center">
-<br>
-<samp>
-Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.maldev.es">David Pantoja Malfeito</a></b>.
-<br>I'm a  from Spain.<br>
 
 Hello my name is David, I am currently focused 200% on making a professional change, although I have always been immersed and surrounded by technology. I am currently getting certified in JAVA programming and relational databases.
 
